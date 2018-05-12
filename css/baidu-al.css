@@ -70,7 +70,7 @@
 
 }
 .ai-section{
-	background-image: url(image/16.png);
+	background-image: url(../image/16.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -96,7 +96,7 @@
 
 }
 .face-container .face-ucl{
-	background-image: url(image/15.png);
+	background-image: url(../image/15.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -272,25 +272,25 @@
 
 }
 .font-container .font-learn .learn-item .one{
-	background-image: url(image/13.png);
+	background-image: url(../image/13.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .font-container .font-learn .learn-item .two{
-	background-image: url(image/7.png);
+	background-image: url(../image/7.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .font-container .font-learn .learn-item .three{
-	background-image: url(image/12.png);
+	background-image: url(../image/12.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .font-container .font-learn .learn-item .four{
-	background-image: url(image/11.png);
+	background-image: url(../image/11.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -512,25 +512,25 @@
 
 }
 .man-container .man-learn .learn-item .one{
-	background-image: url(image/13.png);
+	background-image: url(../image/13.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .man-container .man-learn .learn-item .two{
-	background-image: url(image/7.png);
+	background-image: url(../image/7.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .man-container .man-learn .learn-item .three{
-	background-image: url(image/12.png);
+	background-image: url(../image/12.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .man-container .man-learn .learn-item .four{
-	background-image: url(image/11.png);
+	background-image: url(../image/11.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -742,25 +742,25 @@
 
 }
 .picture-container .picture-learn .learn-item .one{
-	background-image: url(image/13.png);
+	background-image: url(../image/13.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .picture-container .picture-learn .learn-item .two{
-	background-image: url(image/7.png);
+	background-image: url(../image/7.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .picture-container .picture-learn .learn-item .three{
-	background-image: url(image/12.png);
+	background-image: url(../image/12.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .picture-container .picture-learn .learn-item .four{
-	background-image: url(image/11.png);
+	background-image: url(../image/11.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -854,7 +854,7 @@
 .advertising-container{
 	width: 1000px;
 	height: 120px;
-	background-image: url(image/10.png);
+	background-image: url(../image/10.png);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
